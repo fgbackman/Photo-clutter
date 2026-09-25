@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Food Photographer",
+  "description": "AI-powered culinary photography studio for restaurant owners. Transform text menus into realistic, Michelin-grade food photography across Rustic, Modern, and Social Media styles with 1K, 2K, and 4K resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
